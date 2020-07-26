@@ -1,0 +1,133 @@
+.Aa201812052018004Av_{
+	width: 100%;
+	height: 120px;
+	z-index: 10000;
+	top: 0px;
+	position: absolute;
+}
+.Aa20181205006Av_{
+	background-color: white;
+	width: 100%;
+	height: 75px;
+}
+.Aa20181205006Aa_{
+	background-color: #ff4242;
+	width: 100%;
+	height: 45px;
+	transition: 0.5s;
+}
+.Aa201812052018016Av_{
+	margin-left: 20px;
+	width: 17%;
+	height: 70px;
+	float: left;
+}
+.Aa201812052018016Av_ span{
+font-family: 'Noto Serif SC', serif;
+	font-size: 20px;
+	color: grey;
+}
+.Aa201812052018029Av_{
+	width: 50%;
+	float: right;
+	height: 75px;
+	overflow: hidden;
+	text-align: right;
+	margin-right: 30px;
+}
+.Aa201812052018029Av_ label{
+	color: grey;
+	font-size: 18px;
+	cursor: pointer;
+	margin-left: 20px;
+}
+.Aa201812052018029Av_ label>span{
+	position: relative;
+	top: -20px;
+	margin-left: 20px;
+}
+.Aa201812052018029Av_ label>span>a{
+	color: grey;
+}
+.Aa2018125130Av_{
+	position: relative;
+	top: 8px;
+}
+.Aa2018125130Aa_{
+	position: relative;
+	top: -4px;
+}
+.Aa20181205155Af_{
+	width: 100%;
+	padding-top: 10px
+}
+.Aa20181205155Af_ label{
+	font-size: 20px;
+	margin-right: 2%;
+	margin-left: 2%;
+	
+}
+.Aa20181205155Af_ label>a{
+	color: white;
+	text-decoration: none;
+}
+.Aa20181205155Af_ label>a:hover{
+	color: white;
+	text-decoration:underline;
+	transform: scale(1px);
+}
+.Aa20181205155Af_ label>a:focus{
+	color: yellowgreen;
+	text-decoration:underline;
+}
+.Aa20181207935Av_{
+	float: right;
+	color: white;
+	display: none;
+}
+.Aa20181207935Av_ a{
+	color: white;
+}
+.sticky{
+	position: fixed;
+}
+.release{
+	position: relative;
+}
+.Aa20191022202Ag_{
+    position:absolute;
+    width:0px;
+    min-height:0px;
+    height: auto;
+    background-color:#eaeaea;
+    right:10px;
+    z-index: 1000;
+    transition: 1s;
+    opacity: 0;
+    margin-top: 5px;
+}
+.Aa20191220192235Ag_:hover > .Aa20191022202Ag_{
+    opacity: 1;
+    width: 200px;
+    
+} 
+.Aa2019122238Ag_{
+    width: 95%;
+    min-height: 100px;
+    height: auto;
+    color: black;
+    padding: 5px;
+    text-align: center;
+}
+.Aa2019122238Ag_ div{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.Aa2019122238Ag_ div>a{
+    color:black;
+}
+.Aa2019122238Ag_ div:hover{
+    background-color: #ff4242;
+    color: white;
+}

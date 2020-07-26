@@ -1,0 +1,122 @@
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    overflow: none;
+}
+
+/* HTML5 display-role reset for older browsers */
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+    overflow: none;
+}
+
+/*my css*/
+html, body{
+    height: 100%
+}
+#foot_main_content{
+    min-height: 99.99%
+}
+
+#footer{
+    width: 100%;
+    background-color: #171a29;
+	border-bottom: 5px solid #171a29 !important;
+    min-height:100px;
+    height: auto;
+    padding-top: 10px;
+   	overflow: hidden;
+}
+.footer_main_div{
+    padding-left: 5%;
+}
+.foot_table{
+   table-layout: fixed; 
+    width: 95%;
+    color: white;
+}
+.foot_th_mail{
+    width: 40%;
+    padding-bottom: 10px;
+    font-weight: 900;
+}
+.foot_th_contact{
+    width: 35%;
+    padding-bottom: 10px;
+    font-weight: 900;
+}
+.foot_th_empty{
+    float: right;
+}
+.foot_a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    font-family: cursive;
+}
+.tfoot_th_mail{
+    width: 40%;
+    font-family: sans-serif;
+}
+.tfoot_th_contact{
+    width: 35%;
+    font-family: sans-serif;
+}
+.foot_copyright{
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.foot_payment{
+    padding-top: 20px;
+}
+.pav{
+    position:relative;
+    top: 15;
+}
+.img_pav{
+    position: absolute;
+    left: 240px;
+}
+.Aa62720181228Br_{
+	color: white;
+    padding-left: 10px;
+    font-size: 21px;
+}
